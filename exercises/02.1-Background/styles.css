@@ -1,5 +1,8 @@
 body {
 	background-image: url(https://4geeksacademy.github.io/exercise-assets/img/bg/small-mosaic.jpg);
-	background-size: cover;
-	background-repeat: no-repeat;
+	background-size: conver;
+	background-repeat: repeat-y;
+	width: 1330px;
+	height: 610px;
+	border: 1px solid black;
 }
